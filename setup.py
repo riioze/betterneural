@@ -5,10 +5,11 @@ with open('README.md','r') as fh:
 
 setuptools.setup(
 	name = 'betterNeural',
-	version = '0.0.1',
+	version = '0.0.3',
 	author = 'riioze',
 	author_email = 'riioze0@gmail.com',
 	description = 'A package with tools for Neural networks',
+	long_description = long_description,
 	long_description_content_type = 'text/markdown',
 	url = 'https://github.com/riioze/betterneural',
 	packages = setuptools.find_packages(),

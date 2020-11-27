@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: betterNeural
-Version: 0.0.1
+Version: 0.0.3
 Summary: A package with tools for Neural networks
 Home-page: https://github.com/riioze/betterneural
 Author: riioze
 Author-email: riioze0@gmail.com
 License: UNKNOWN
-Description: UNKNOWN
+Description: this is a very long description
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License

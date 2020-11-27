@@ -1,1 +1,1 @@
-import betterNeural.__init__
+import betterneural
