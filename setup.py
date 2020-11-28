@@ -5,7 +5,7 @@ with open('README.md','r') as fh:
 
 setuptools.setup(
 	name = 'betterNeural',
-	version = '0.0.3',
+	version = '0.0.4',
 	author = 'riioze',
 	author_email = 'riioze0@gmail.com',
 	description = 'A package with tools for Neural networks',
@@ -17,4 +17,5 @@ setuptools.setup(
 		"Programming Language :: Python :: 3",
 		"License :: OSI Approved :: MIT License",
 		"Operating System :: OS Independent"],
-	python_requires = '>=3.6')
+	python_requires = '>=3.6',
+	install_requires=['numpy'])
